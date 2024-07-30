@@ -14,7 +14,7 @@
     "@floating-ui/react": "^0.26.19",
     "@hookform/resolvers": "^3.9.0",
     "@mixer/postmessage-rpc": "^1.1.4",
-    "@noble/secp256k1": "^1.7.0",
+    "@noble/secp256k1": "^2.0.0",
     "@openproduct/web-sdk": "^0.23.0",
     "@orbs-network/ton-access": "^2.3.3",
     "@passwordless-id/webauthn": "^1.6.1",
