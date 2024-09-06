@@ -19,7 +19,7 @@
     "@noble/secp256k1": "^1.7.0",
     "@openproduct/web-sdk": "^0.23.0",
     "@orbs-network/ton-access": "^2.3.3",
-    "@passwordless-id/webauthn": "^1.6.1",
+    "@passwordless-id/webauthn": "^2.0.0",
     "@solana/web3.js": "^1.94.0",
     "@tanstack/react-query": "^5.49.2",
     "@telegram-apps/sdk": "^1.1.0",
