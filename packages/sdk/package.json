@@ -34,7 +34,7 @@
   "dependencies": {
     "@mixer/postmessage-rpc": "^1.1.4",
     "@passwordless-id/webauthn": "^1.6.1",
-    "@ton/core": "^0.57.0",
+    "@ton/core": "^0.59.0",
     "@ton/crypto": "^3.3.0",
     "@ton/ton": "^15.0.0",
     "@tonconnect/protocol": "^2.2.6",
