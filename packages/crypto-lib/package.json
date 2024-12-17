@@ -47,6 +47,6 @@
     "randombytes": "^2.1.0",
     "safe-buffer": "^5.1.1",
     "typeforce": "^1.11.5",
-    "wif": "^2.0.6"
+    "wif": "^5.0.0"
   }
 }
