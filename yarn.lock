@@ -237,13 +237,13 @@
   integrity sha512-RbvDiMcMRCok4c3s4xoHg8nwatsFFZgQcZkV/TTn7MpfnLgmMWtTGx97astv0fpj5cCLOl/NXbJhJd+Z+g8eEg==
 
 "@dfinity/ledger-icrc@^2.5.0":
-  version "2.6.4"
-  resolved "https://registry.yarnpkg.com/@dfinity/ledger-icrc/-/ledger-icrc-2.6.4.tgz#37d526725484559888c0060c34537236f24c41bb"
-  integrity sha512-Q7B/D6NhmWQW4qFWZVaV8B6efuRto7hDa0GmT1hxeeUPcyXt42AtfNgyqByDu82Wsank90AW4hgBS0UhKGEB9Q==
+  version "2.7.0"
+  resolved "https://registry.npmmirror.com/@dfinity/ledger-icrc/-/ledger-icrc-2.7.0.tgz#e2ee1d16a492676528ca6830408aba852e36731e"
+  integrity sha512-WDqCFHaPE55Vn2aYgZQ0/Jdyp56zqhQKUk2dgphraG8F7MU6rgCan4IwiA8ksqXX9XSsvuS3UMWWYV5FcrRVoQ==
 
 "@dfinity/principal@^2.1.1", "@dfinity/principal@^2.1.3":
   version "2.2.0"
-  resolved "https://registry.yarnpkg.com/@dfinity/principal/-/principal-2.2.0.tgz#36bd46e9e4d9d96eee8288b0c68762299e081dcf"
+  resolved "https://registry.npmmirror.com/@dfinity/principal/-/principal-2.2.0.tgz#36bd46e9e4d9d96eee8288b0c68762299e081dcf"
   integrity sha512-8Yxb/6B4BWvV64HJ7X8sbDjoBaEamAQgOZ0MK0I44lZiRHomAYeUJMrw3yBg9jI1T62lijLcl401FAXBOzciiQ==
   dependencies:
     "@noble/hashes" "^1.3.1"
